@@ -1,0 +1,58 @@
+export const postList = [
+  {
+    id: 1,
+    image: 'src/assets/images/1.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+  {
+    id: 2,
+    image: 'src/assets/images/2.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+  {
+    id: 3,
+    image: 'src/assets/images/3.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+  {
+    id: 4,
+    image: 'src/assets/images/4.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+  {
+    id: 5,
+    image: 'src/assets/images/5.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+  {
+    id: 6,
+    image: 'src/assets/images/6.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+  {
+    id: 7,
+    image: 'src/assets/images/7.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+  {
+    id: 8,
+    image: 'src/assets/images/8.png',
+    date: '2024-12-05',
+    likes: 128,
+    comments: 12,
+  },
+]
